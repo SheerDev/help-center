@@ -1,0 +1,45 @@
+{
+  "name": "Sheer help center",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#2563EB",
+    "light": "#60A5FA"
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:julius@sheer.dk"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Creators",
+      "pages": [
+        "get-started/onboarding",
+        "get-started/reconnect"
+      ]
+    },
+    {
+      "group": "Essentials",
+      "pages": [
+        "essentials/ig-business", 
+        "essentials/connected-fb-page"
+      ]
+    },
+    {
+      "group": "Privacy & Data",
+      "pages": [
+        "privacy-data/privacy"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "website": "https://sheer.dk",
+    "github": "https://github.com/SheerDev/",
+    "linkedin": "https://www.linkedin.com/company/sheer-dk/"
+  }
+}
