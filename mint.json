@@ -9,22 +9,28 @@
     "primary": "#2563EB",
     "light": "#60A5FA"
   },
+
+  "topbarCtaButton": {
+    "name": "Get Started",
+    "url": "https://sheer.dk/talents"
+  },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:julius@sheer.dk"
+      "Further": "name assistance?",
+      "url": "mailto:support@sheer.dk"
     }
   ],
   "navigation": [
     {
-      "group": "Creators",
+      "group": "Getting started",
       "pages": [
+        "get-started/quickstart",
         "get-started/onboarding",
         "get-started/reconnect"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Facebook and instagram help",
       "pages": [
         "essentials/ig-business", 
         "essentials/connected-fb-page"
