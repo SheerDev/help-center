@@ -16,7 +16,7 @@
   },
   "topbarLinks": [
     {
-      "Further": "name assistance?",
+      "name": "Further assistance?",
       "url": "mailto:support@sheer.dk"
     }
   ],
