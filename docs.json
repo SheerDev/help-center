@@ -1,0 +1,82 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Sheer help center",
+  "colors": {
+    "primary": "#2563EB",
+    "light": "#60A5FA"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "dropdowns": [
+      {
+        "dropdown":"For creators",
+        "icon": "book-open",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": [
+              "get-started/quickstart",
+              "get-started/onboarding",
+              "get-started/reconnect"
+            ]
+          },
+          {
+            "group": "Facebook and instagram help",
+            "pages": [
+              "essentials/ig-business",
+              "essentials/connected-fb-page"
+            ]
+          },
+          {
+            "group": "Privacy & Data",
+            "pages": [
+              "privacy-data/privacy"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "For brands",
+        "icon": "book-open",
+        "groups": [
+          {
+            "group": "Heading",
+            "pages": [
+              "brands/introduction"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Further assistance?",
+        "href": "mailto:support@sheer.dk"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Get Started",
+      "href": "https://sheer.dk/talents"
+    }
+  },
+  "footer": {
+    "socials": {
+      "website": "https://sheer.dk",
+      "github": "https://github.com/SheerDev/",
+      "linkedin": "https://www.linkedin.com/company/sheer-dk/"
+    }
+  },
+  "integrations": {
+    "fathom": {
+      "siteId": "NNLPNIRG"
+    }
+  }
+}
