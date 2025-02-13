@@ -51,6 +51,12 @@
             "pages": [
               "brands/campaigns"
             ]
+          },
+          {
+            "group": "creators",
+            "pages": [
+              "brands/creators"
+            ]
           }
         ]
       }
