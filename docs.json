@@ -11,7 +11,7 @@
     "dropdowns": [
       {
         "dropdown":"For creators",
-        "icon": "book-open",
+        "icon": "circle-user",
         "groups": [
           {
             "group": "Getting started",
@@ -38,7 +38,7 @@
       },
       {
         "dropdown": "For brands",
-        "icon": "book-open",
+        "icon": "store",
         "groups": [
           {
             "group": "Brand introduction",
