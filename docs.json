@@ -57,6 +57,12 @@
             "pages": [
               "brands/creators"
             ]
+          },
+          {
+            "group": "Content library",
+            "pages": [
+              "brands/content_library"
+            ]
           }
         ]
       }
