@@ -41,9 +41,14 @@
         "icon": "book-open",
         "groups": [
           {
-            "group": "Heading",
+            "group": "Brand introduction",
             "pages": [
-              "brands/introduction",
+              "brands/introduction"
+            ]
+          },
+          {
+            "group": "Campaigns overview",
+            "pages": [
               "brands/campaigns"
             ]
           }
