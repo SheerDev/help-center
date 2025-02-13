@@ -20,29 +20,37 @@
       "url": "mailto:support@sheer.dk"
     }
   ],
-  "navigation": [
-    {
-      "group": "Getting started",
-      "pages": [
-        "get-started/quickstart",
-        "get-started/onboarding",
-        "get-started/reconnect"
-      ]
-    },
-    {
-      "group": "Facebook and instagram help",
-      "pages": [
-        "essentials/ig-business", 
-        "essentials/connected-fb-page"
-      ]
-    },
-    {
-      "group": "Privacy & Data",
-      "pages": [
-        "privacy-data/privacy"
-      ]
-    }
-  ],
+  "navigation": [{
+    "dropdowns": [
+      {
+        "dropdown": "For Creators",
+        "icon": "book-open",
+        "pages": [
+          {
+            "group": "Getting started",
+            "pages": [
+              "get-started/quickstart",
+              "get-started/onboarding",
+              "get-started/reconnect"
+            ]
+          },
+          {
+            "group": "Facebook and instagram help",
+            "pages": [
+              "essentials/ig-business", 
+              "essentials/connected-fb-page"
+            ]
+          },
+          {
+            "group": "Privacy & Data",
+            "pages": [
+              "privacy-data/privacy"
+            ]
+          }
+        ]
+      }
+    ]
+    }],
   "footerSocials": {
     "website": "https://sheer.dk",
     "github": "https://github.com/SheerDev/",
