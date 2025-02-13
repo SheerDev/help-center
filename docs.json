@@ -41,32 +41,12 @@
         "icon": "store",
         "groups": [
           {
-            "group": "Brand introduction",
+            "group": "Sheer Influencer Software",
             "pages": [
-              "brands/introduction"
-            ]
-          },
-          {
-            "group": "Campaigns overview",
-            "pages": [
-              "brands/campaigns"
-            ]
-          },
-          {
-            "group": "Creators",
-            "pages": [
-              "brands/creators"
-            ]
-          },
-          {
-            "group": "Content library",
-            "pages": [
-              "brands/content_library"
-            ]
-          },
-          {
-            "group": "Reports",
-            "pages": [
+              "brands/introduction",
+              "brands/campaigns",
+              "brands/creators",
+              "brands/content_library",
               "brands/report"
             ]
           }
