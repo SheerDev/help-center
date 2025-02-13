@@ -63,6 +63,12 @@
             "pages": [
               "brands/content_library"
             ]
+          },
+          {
+            "group": "Reports",
+            "pages": [
+              "brands/report"
+            ]
           }
         ]
       }
