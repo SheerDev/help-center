@@ -20,7 +20,7 @@
       "url": "mailto:support@sheer.dk"
     }
   ],
-  "navigation": {
+  "navigation": [{
     "dropdowns": [
       {
         "dropdown": "For Creators",
@@ -50,7 +50,7 @@
         ]
       }
     ]
-  },
+    ]},
   "footerSocials": {
     "website": "https://sheer.dk",
     "github": "https://github.com/SheerDev/",
