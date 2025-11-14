@@ -18,15 +18,14 @@
             "pages": [
               "get-started/introduction",
               "get-started/onboarding",
-              "get-started/upload_content"
+              "get-started/reconnect"
             ]
           },
           {
             "group": "Facebook and instagram help",
             "pages": [
               "essentials/ig-business",
-              "essentials/connected-fb-page",
-              "get-started/reconnect"
+              "essentials/connected-fb-page"
             ]
           },
           {
