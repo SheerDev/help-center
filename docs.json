@@ -10,7 +10,7 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown":"For creators",
+        "dropdown": "For creators",
         "icon": "circle-user",
         "groups": [
           {
@@ -45,6 +45,7 @@
             "group": "Sheer help center",
             "pages": [
               "brands/introduction",
+              "sheer_search/introduction",
               "brands/campaigns",
               "brands/creators",
               "brands/content_library",
@@ -54,7 +55,6 @@
           {
             "group": "Sheer Search",
             "pages": [
-              "sheer_search/introduction",
               "sheer_search/verified_search",
               "sheer_search/public_search",
               "sheer_search/shortlists"
