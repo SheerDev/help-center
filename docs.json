@@ -45,8 +45,8 @@
             "group": "Sheer help center",
             "pages": [
               "brands/introduction",
-              "sheer_search/introduction",
-              "brands/campaigns",
+              "brands/sheersearch",
+              "brands/campaigns-creators",
               "brands/content_library",
               "brands/report"
             ]
