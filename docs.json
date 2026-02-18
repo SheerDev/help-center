@@ -12,10 +12,6 @@
       {
         "dropdown": "Creators",
         "icon": "circle-user",
-        "color": {
-          "light": "#",
-          "dark": "#"
-        },
         "groups": [
           {
             "group": "Getting started",
@@ -44,10 +40,6 @@
       {
         "dropdown": "Brands & Agencies",
         "icon": "store",
-        "color": {
-          "light": "#",
-          "dark": "#"
-        },
         "groups": [
           {
             "group": "Sheer help center",
@@ -70,10 +62,6 @@
       {
         "dropdown": "Talent Management",
         "icon": "people-roof",
-        "color": {
-          "light": "#",
-          "dark": "#"
-        },
         "groups": [
           {
             "group": "Sheer Help Center",
