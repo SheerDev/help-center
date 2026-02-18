@@ -12,6 +12,10 @@
       {
         "dropdown": "Creators",
         "icon": "circle-user",
+        "color": {
+          "light": "#",
+          "dark": "#"
+        },
         "groups": [
           {
             "group": "Getting started",
