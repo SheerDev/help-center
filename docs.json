@@ -10,7 +10,7 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "For creators",
+        "dropdown": "Creators",
         "icon": "circle-user",
         "groups": [
           {
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "dropdown": "For brands",
+        "dropdown": "Brands & Agencies",
         "icon": "store",
         "groups": [
           {
@@ -54,6 +54,17 @@
             "group": "Frequently asked Questions",
             "pages": [
               "general"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Talent Management",
+        "groups": [
+          {
+            "group": "Sheer Help Center",
+            "pages": [
+              "introduction"
             ]
           }
         ]
