@@ -49,6 +49,12 @@
               "brands/content_library",
               "brands/report"
             ]
+          },
+          {
+            "group": "Frequently asked Questions",
+            "pages": [
+              "general"
+            ]
           }
         ]
       }
