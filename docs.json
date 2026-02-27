@@ -44,11 +44,11 @@
           {
             "group": "Sheer help center",
             "pages": [
-              "brands/introduction",
-              "brands/sheersearch",
-              "brands/campaigns-creators",
-              "brands/content_library",
-              "brands/report"
+              "brand-and-agencies/introduction",
+              "brand-and-agencies/find",
+              "brands/validate",
+              "brand-and-agencies/execute",
+              "brand-and-agencies/report"
             ]
           },
           {
