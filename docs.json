@@ -55,7 +55,8 @@
           {
             "group": "Frequently asked Questions",
             "pages": [
-              "general"
+              "frequently-asked-questions/general-faq",
+              "frequently-asked-questions/data-faq"
             ]
           }
         ]
