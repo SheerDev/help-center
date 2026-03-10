@@ -55,8 +55,7 @@
           {
             "group": "Frequently asked Questions",
             "pages": [
-              "frequently-asked-questions/general-faq",
-              "frequently-asked-questions/data-faq"
+              "frequently-asked-questions/general-faq"
             ]
           }
         ]
@@ -64,6 +63,7 @@
       {
         "dropdown": "Talent Management",
         "icon": "people-roof",
+        "hidden": true,
         "groups": [
           {
             "group": "Sheer Help Center",
