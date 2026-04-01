@@ -27,10 +27,11 @@
           {
             "group": "Account help",
             "pages": [
+              "essentials/ig-business",
+              "essentials/reconnect-your-account-to-sheer",
+              "essentials/instagram-and-facebook-help",
               "essentials/connect-instagram-via-ig",
               "essentials/reenable-instagram-insights",
-              "essentials/reconnect-your-account-to-sheer",
-              "essentials/ig-business",
               "essentials/not-receiving-emails-from-instagram"
             ]
           },
