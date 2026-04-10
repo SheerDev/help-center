@@ -76,7 +76,7 @@
             "pages": [
               "brand-and-agencies/validate/introduction",
               "brand-and-agencies/validate/verified-search",
-              "brand-and-agencies//validate/mediakits",
+              "brand-and-agencies/validate/mediakits",
               "brand-and-agencies/validate/data-driven-validation"
             ]
           },
@@ -95,7 +95,7 @@
             "group": "Report",
             "pages": [
               "brand-and-agencies/report/introduction",
-              "brand-and-agencies/report/edit-report"
+              "brand-and-agencies/report/customize-report"
             ]
           },
           {
