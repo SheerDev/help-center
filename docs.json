@@ -79,6 +79,7 @@
           },
           {
             "group": "Execute",
+            "expanded": false,
             "pages": [
               "brand-and-agencies/execute/introduction",
               "brand-and-agencies/execute/campaigns",
@@ -96,7 +97,7 @@
           },
           {
             "group": "Frequently Asked Questions",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "brand-and-agencies/frequently-asked-questions/sheer-faq"
             ]
