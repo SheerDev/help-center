@@ -58,6 +58,44 @@
             ]
           },
           {
+            "group": "Find",
+            "expanded": true,
+            "pages": [
+              "introduction",
+              "public-search",
+              "post-search",
+              "shortlists",
+              "sheer-chrome-extension",
+              "find-tips-and-tricks"
+            ]
+          },
+          {
+            "group": "Validate",
+            "pages": [
+              "introduction-1",
+              "verified-search",
+              "mediakits",
+              "data-driven-validation"
+            ]
+          },
+          {
+            "group": "Execute",
+            "pages": [
+              "introduction-2",
+              "campaigns",
+              "creators",
+              "content-library",
+              "manage-your-organization"
+            ]
+          },
+          {
+            "group": "Report",
+            "pages": [
+              "introduction-3",
+              "report"
+            ]
+          },
+          {
             "group": "Frequently Asked Questions",
             "pages": [
               "frequently-asked-questions/sheer-faq"
