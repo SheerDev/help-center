@@ -61,19 +61,19 @@
             "group": "Find",
             "expanded": true,
             "pages": [
-              "introduction",
-              "public-search",
-              "post-search",
-              "shortlists",
-              "sheer-chrome-extension",
-              "find-tips-and-tricks"
+              "find/introduction",
+              "find/public-search",
+              "find/post-search",
+              "find/shortlists",
+              "find/sheer-chrome-extension",
+              "find/find-tips-and-tricks"
             ]
           },
           {
             "group": "Validate",
             "pages": [
-              "introduction-1",
-              "verified-search",
+              "validate/introduction",
+              "validate/verified-search",
               "mediakits",
               "data-driven-validation"
             ]
@@ -81,17 +81,17 @@
           {
             "group": "Execute",
             "pages": [
-              "introduction-2",
-              "campaigns",
+              "execute/introduction",
+              "execute/campaigns",
               "creators",
               "content-library",
-              "manage-your-organization"
+              "execute/manage-your-organization"
             ]
           },
           {
             "group": "Report",
             "pages": [
-              "introduction-3",
+              "report/introduction",
               "report"
             ]
           },
