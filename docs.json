@@ -79,7 +79,7 @@
           },
           {
             "group": "Execute",
-            "root": "Execute-overview",
+            "expanded": false,
             "pages": [
               "brand-and-agencies/execute/introduction",
               "brand-and-agencies/execute/campaigns",
