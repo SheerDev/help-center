@@ -59,46 +59,46 @@
           },
           {
             "group": "Find",
-            "expanded": true,
             "pages": [
-              "find/introduction",
-              "find/public-search",
-              "find/post-search",
-              "find/shortlists",
-              "find/sheer-chrome-extension",
-              "find/find-tips-and-tricks"
+              "brand-and-agencies/find/introduction",
+              "brand-and-agencies/find/public-search",
+              "brand-and-agencies/find/post-search",
+              "brand-and-agencies/find/shortlists",
+              "brand-and-agencies/find/sheer-chrome-extension",
+              "brand-and-agencies/find/find-tips-and-tricks"
             ]
           },
           {
             "group": "Validate",
             "pages": [
-              "validate/introduction",
-              "validate/verified-search",
-              "mediakits",
-              "data-driven-validation"
+              "brand-and-agencies/validate/introduction",
+              "brand-and-agencies/validate/verified-search",
+              "brand-and-agencies//validate/mediakits",
+              "brand-and-agencies/validate/data-driven-validation"
             ]
           },
           {
             "group": "Execute",
             "pages": [
-              "execute/introduction",
-              "execute/campaigns",
-              "creators",
-              "content-library",
-              "execute/manage-your-organization"
+              "brand-and-agencies/execute/introduction",
+              "brand-and-agencies/execute/campaigns",
+              "brand-and-agencies/execute/creators",
+              "brand-and-agencies/execute/content-library",
+              "brand-and-agencies/execute/manage-your-organization"
             ]
           },
           {
             "group": "Report",
             "pages": [
-              "report/introduction",
-              "report"
+              "brand-and-agencies/report/introduction",
+              "brand-and-agencies/report/edit-report"
             ]
           },
           {
             "group": "Frequently Asked Questions",
+            "expanded": true,
             "pages": [
-              "frequently-asked-questions/sheer-faq"
+              "brand-and-agencies/frequently-asked-questions/sheer-faq"
             ]
           }
         ]
